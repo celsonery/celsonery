@@ -1,9 +1,11 @@
 ### Olá eu sou Celso Nery
 
 :computer: FullStack Developer!
-
-![https://github.com/celsonery](https://github-readme-stats.vercel.app/api?username=celsonery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-![https://github.com/celsonery](https://github-readme-stats.vercel.app/api/top-langs/?username=celsonery&layout=compact&langs_count=7&theme=github_dark)
+<div align="center">
+  <a href="https://github.com/celsonery">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celsonery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsonery&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 <div>
   <img align="center" alt="Celso-Linux" heignt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
