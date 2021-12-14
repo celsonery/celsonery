@@ -2,7 +2,6 @@
 
 :computer: FullStack Developer!
 
-
 ![https://github.com/celsonery](https://github-readme-stats.vercel.app/api?username=celsonery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ![https://github.com/celsonery](https://github-readme-stats.vercel.app/api/top-langs/?username=celsonery&layout=compact&langs_count=7&theme=github_dark)
 
